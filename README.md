@@ -1,2 +1,0 @@
-# belgearsivyonetimsistemi
- finalproje
